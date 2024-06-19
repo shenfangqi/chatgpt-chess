@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Canvas
+  - Pointer
+  - s_e
+  - s_m
+  - r_e
+  - q_m
+  - q_e
+  - n_m
+  - n_e
+  - k_m
+  - k_e
+  - b_m
+  - b_e
+  - r_m
+  - sys_but_start
+  - sys_bg_grid
+  - sys_bg_color
+  - sys_but_stop
+  - sys_over
+  - tag_test
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
